@@ -1,0 +1,16 @@
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x    4 applysea   applysea           31 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea        70523 Jan 17  2020 all.css
+-rw-r--r--    1 applysea   applysea        56842 Jan 17  2020 all.min.css
+-rw-r--r--    1 applysea   applysea          714 Jan 17  2020 brands.css
+-rw-r--r--    1 applysea   applysea          661 Jan 17  2020 brands.min.css
+-rw-r--r--    1 applysea   applysea        68908 Jan 17  2020 fontawesome.css
+-rw-r--r--    1 applysea   applysea        55415 Jan 17  2020 fontawesome.min.css
+-rw-r--r--    1 applysea   applysea          733 Jan 17  2020 regular.css
+-rw-r--r--    1 applysea   applysea          676 Jan 17  2020 regular.min.css
+-rw-r--r--    1 applysea   applysea          726 Jan 17  2020 solid.css
+-rw-r--r--    1 applysea   applysea          668 Jan 17  2020 solid.min.css
+-rw-r--r--    1 applysea   applysea         8077 Jan 17  2020 svg-with-js.css
+-rw-r--r--    1 applysea   applysea         6359 Jan 17  2020 svg-with-js.min.css
+-rw-r--r--    1 applysea   applysea        41218 Jan 17  2020 v4-shims.css
+-rw-r--r--    1 applysea   applysea        26626 Jan 17  2020 v4-shims.min.css

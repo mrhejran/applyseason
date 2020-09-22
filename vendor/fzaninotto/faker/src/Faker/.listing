@@ -1,0 +1,10 @@
+drwxr-xr-x    6 applysea   applysea          148 Jul  2 18:53 .
+drwxr-xr-x    3 applysea   applysea           37 Jul  2 18:53 ..
+drwxr-xr-x    2 applysea   applysea           79 Jul  2 18:53 Calculator
+-rw-r--r--    1 applysea   applysea          669 Mar  8  2020 DefaultGenerator.php
+-rw-r--r--    1 applysea   applysea         2459 Mar  8  2020 Documentor.php
+-rw-r--r--    1 applysea   applysea         1977 Mar  8  2020 Factory.php
+-rw-r--r--    1 applysea   applysea         9625 Mar  8  2020 Generator.php
+drwxr-xr-x    2 applysea   applysea           21 Jul  2 18:53 Guesser
+drwxr-xr-x    8 applysea   applysea           88 Jul  2 18:53 ORM
+drwxr-xr-x   57 applysea   applysea         4096 Jul  2 18:53 Provider

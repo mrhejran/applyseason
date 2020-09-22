@@ -1,0 +1,15 @@
+drwxr-xr-x    3 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x    3 applysea   applysea           23 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea        13708 Apr  2 13:04 dialog.css
+-rw-r--r--    1 applysea   applysea        14731 Apr  2 13:04 dialog_ie.css
+-rw-r--r--    1 applysea   applysea        15280 Apr  2 13:04 dialog_ie8.css
+-rw-r--r--    1 applysea   applysea        14760 Apr  2 13:04 dialog_iequirks.css
+-rw-r--r--    1 applysea   applysea        46240 Apr  2 13:04 editor.css
+-rw-r--r--    1 applysea   applysea        46321 Apr  2 13:04 editor_gecko.css
+-rw-r--r--    1 applysea   applysea        47239 Apr  2 13:04 editor_ie.css
+-rw-r--r--    1 applysea   applysea        48045 Apr  2 13:04 editor_ie8.css
+-rw-r--r--    1 applysea   applysea        47888 Apr  2 13:04 editor_iequirks.css
+-rw-r--r--    1 applysea   applysea         7646 Apr  2 13:04 icons.png
+-rw-r--r--    1 applysea   applysea        26805 Apr  2 13:04 icons_hidpi.png
+drwxr-xr-x    3 applysea   applysea          121 Jul  2 18:52 images
+-rw-r--r--    1 applysea   applysea         2286 Apr  2 13:03 readme.md

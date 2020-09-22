@@ -1,0 +1,7 @@
+drwxr-xr-x    3 applysea   applysea          139 Jul  2 18:52 .
+drwxr-xr-x   61 applysea   applysea         4096 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea        52032 Jan 17  2020 additional-methods.js
+-rw-r--r--    1 applysea   applysea        22660 Jan 17  2020 additional-methods.min.js
+-rw-r--r--    1 applysea   applysea        50690 Jan 17  2020 jquery.validate.js
+-rw-r--r--    1 applysea   applysea        24376 Jan 17  2020 jquery.validate.min.js
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 localization

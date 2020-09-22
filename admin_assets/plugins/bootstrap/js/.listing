@@ -1,0 +1,10 @@
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x    3 applysea   applysea           15 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea       222911 Jan 17  2020 bootstrap.bundle.js
+-rw-r--r--    1 applysea   applysea       402249 Jan 17  2020 bootstrap.bundle.js.map
+-rw-r--r--    1 applysea   applysea        78635 Jan 17  2020 bootstrap.bundle.min.js
+-rw-r--r--    1 applysea   applysea       311949 Jan 17  2020 bootstrap.bundle.min.js.map
+-rw-r--r--    1 applysea   applysea       131637 Jan 17  2020 bootstrap.js
+-rw-r--r--    1 applysea   applysea       250568 Jan 17  2020 bootstrap.js.map
+-rw-r--r--    1 applysea   applysea        58072 Jan 17  2020 bootstrap.min.js
+-rw-r--r--    1 applysea   applysea       190253 Jan 17  2020 bootstrap.min.js.map

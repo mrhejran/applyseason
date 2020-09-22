@@ -1,0 +1,7 @@
+drwxr-xr-x    2 applysea   applysea           79 Jul  2 18:53 .
+drwxr-xr-x    6 applysea   applysea          148 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         1225 Mar  8  2020 Ean.php
+-rw-r--r--    1 applysea   applysea         1716 Mar  8  2020 Iban.php
+-rw-r--r--    1 applysea   applysea         1038 Mar  8  2020 Inn.php
+-rw-r--r--    1 applysea   applysea         1763 Mar  8  2020 Luhn.php
+-rw-r--r--    1 applysea   applysea         1376 Mar  8  2020 TCNo.php

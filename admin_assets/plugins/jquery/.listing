@@ -1,0 +1,9 @@
+drwxr-xr-x    2 applysea   applysea          149 Jul  2 18:52 .
+drwxr-xr-x   61 applysea   applysea         4096 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea         9165 Jan 17  2020 core.js
+-rw-r--r--    1 applysea   applysea       280364 Jan 17  2020 jquery.js
+-rw-r--r--    1 applysea   applysea        88145 Jan 17  2020 jquery.min.js
+-rw-r--r--    1 applysea   applysea       136397 Jan 17  2020 jquery.min.map
+-rw-r--r--    1 applysea   applysea       227022 Jan 17  2020 jquery.slim.js
+-rw-r--r--    1 applysea   applysea        71037 Jan 17  2020 jquery.slim.min.js
+-rw-r--r--    1 applysea   applysea       108757 Jan 17  2020 jquery.slim.min.map

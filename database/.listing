@@ -1,0 +1,6 @@
+drwxr-xr-x    5 applysea   applysea           68 Jul  2 18:52 .
+drwxr-xr-x   24 applysea   applysea         4096 Sep 18 14:08 ..
+-rw-r--r--    1 applysea   applysea            9 Mar  8  2020 .gitignore
+drwxr-xr-x    2 applysea   applysea           28 Jul  2 18:52 factories
+drwxr-xr-x    2 applysea   applysea         4096 Sep  5 13:07 migrations
+drwxr-xr-x    2 applysea   applysea           31 Jul  2 18:52 seeds

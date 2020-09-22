@@ -1,0 +1,12 @@
+drwxr-xr-x    3 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x   61 applysea   applysea         4096 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea         1053 Jan 17  2020 LICENSE.txt
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 locales
+-rw-r--r--    1 applysea   applysea        37121 Jan 17  2020 locales-all.js
+-rw-r--r--    1 applysea   applysea        17753 Jan 17  2020 locales-all.min.js
+-rw-r--r--    1 applysea   applysea        27363 Jan 17  2020 main.css
+-rw-r--r--    1 applysea   applysea       119622 Jan 17  2020 main.d.ts
+-rw-r--r--    1 applysea   applysea       333979 Jan 17  2020 main.esm.js
+-rw-r--r--    1 applysea   applysea       372509 Jan 17  2020 main.js
+-rw-r--r--    1 applysea   applysea        14357 Jan 17  2020 main.min.css
+-rw-r--r--    1 applysea   applysea       126428 Jan 17  2020 main.min.js

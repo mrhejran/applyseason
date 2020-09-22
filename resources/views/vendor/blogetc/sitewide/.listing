@@ -1,0 +1,6 @@
+drwxr-xr-x    2 applysea   applysea          128 Jul  2 18:53 .
+drwxr-xr-x    5 applysea   applysea          153 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea          276 Apr  5 14:58 random_posts.blade.php
+-rw-r--r--    1 applysea   applysea          288 Apr  5 14:58 recent_posts.blade.php
+-rw-r--r--    1 applysea   applysea          410 Apr  5 14:58 search_form.blade.php
+-rw-r--r--    1 applysea   applysea          314 Apr  5 14:58 show_all_categories.blade.php

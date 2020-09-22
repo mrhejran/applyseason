@@ -1,0 +1,13 @@
+drwxr-xr-x    5 applysea   applysea         4096 Jul  2 18:53 .
+drwxr-xr-x    5 applysea   applysea           53 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea          544 Mar  8  2020 .doctrine-project.json
+drwxr-xr-x    2 applysea   applysea           24 Jul  2 18:53 .github
+-rw-r--r--    1 applysea   applysea         1032 Mar  8  2020 CONTRIBUTING.md
+-rw-r--r--    1 applysea   applysea         1060 Mar  8  2020 LICENSE
+-rw-r--r--    1 applysea   applysea         1794 Mar  8  2020 README.md
+-rw-r--r--    1 applysea   applysea         1440 Mar  8  2020 composer.json
+drwxr-xr-x    3 applysea   applysea           15 Jul  2 18:53 docs
+-rw-r--r--    1 applysea   applysea          101 Mar  8  2020 phpbench.json
+-rw-r--r--    1 applysea   applysea         1594 Mar  8  2020 phpcs.xml.dist
+-rw-r--r--    1 applysea   applysea          574 Mar  8  2020 phpstan.neon.dist
+drwxr-xr-x    3 applysea   applysea           21 Jul  2 18:53 src

@@ -1,0 +1,4 @@
+drwxr-xr-x    2 applysea   applysea           67 Jul  2 18:53 .
+drwxr-xr-x    4 applysea   applysea           66 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         3790 Mar  8  2020 TrustProxies.php
+-rw-r--r--    1 applysea   applysea         1042 Mar  8  2020 TrustedProxyServiceProvider.php

@@ -1,0 +1,5 @@
+drwxr-xr-x    2 applysea   applysea           95 Jul  2 18:53 .
+drwxr-xr-x    4 applysea   applysea           83 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea       166776 Apr  5 14:55 DefaultRuleProvider.php
+-rw-r--r--    1 applysea   applysea          976 Apr  5 14:55 FileRuleProvider.php
+-rw-r--r--    1 applysea   applysea          576 Apr  5 14:55 RuleProviderInterface.php

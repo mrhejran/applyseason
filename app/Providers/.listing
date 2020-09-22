@@ -1,0 +1,7 @@
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x    7 applysea   applysea         4096 Sep  5 15:16 ..
+-rw-r--r--    1 applysea   applysea          403 Mar  8  2020 AppServiceProvider.php
+-rw-r--r--    1 applysea   applysea          575 Mar  8  2020 AuthServiceProvider.php
+-rw-r--r--    1 applysea   applysea          380 Mar  8  2020 BroadcastServiceProvider.php
+-rw-r--r--    1 applysea   applysea          595 Apr  8 08:19 EventServiceProvider.php
+-rw-r--r--    1 applysea   applysea         1529 Mar  8  2020 RouteServiceProvider.php

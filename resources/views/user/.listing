@@ -1,0 +1,12 @@
+drwxr-xr-x    2 applysea   applysea         4096 Sep  5 11:33 .
+drwxr-xr-x    8 applysea   applysea          126 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         5304 Mar 18  2020 about.blade.php
+-rw-r--r--    1 applysea   applysea        13990 Apr  8 09:40 blog-single.blade.php
+-rw-r--r--    1 applysea   applysea         3009 Apr  6 14:09 blog.blade.php
+-rw-r--r--    1 applysea   applysea         4264 Mar 18  2020 contact.blade.php
+-rw-r--r--    1 applysea   applysea        32987 Sep 11 18:22 index.blade.php
+-rw-r--r--    1 applysea   applysea        23718 Mar  9  2020 job-post.blade.php
+-rw-r--r--    1 applysea   applysea         6412 Mar  9  2020 new-post.blade.php
+-rw-r--r--    1 applysea   applysea        10001 Sep  9 11:18 search-job.blade.php
+-rw-r--r--    1 applysea   applysea         6532 Sep  8 12:32 user_panel.blade.php
+-rw-r--r--    1 applysea   applysea         6843 Sep  5 14:33 user_ticket.blade.php

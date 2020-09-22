@@ -1,0 +1,16 @@
+drwxr-xr-x    4 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x   61 applysea   applysea         4096 Jul  2 18:52 ..
+drwxr-xr-x    2 applysea   applysea           70 Jul  2 18:52 font
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 lang
+-rw-r--r--    1 applysea   applysea        18647 Jan 17  2020 summernote-bs4.css
+-rw-r--r--    1 applysea   applysea       301514 Jan 17  2020 summernote-bs4.js
+-rw-r--r--    1 applysea   applysea       481716 Jan 17  2020 summernote-bs4.js.map
+-rw-r--r--    1 applysea   applysea       127927 Jan 17  2020 summernote-bs4.min.js
+-rw-r--r--    1 applysea   applysea        28559 Jan 17  2020 summernote-lite.css
+-rw-r--r--    1 applysea   applysea       322936 Jan 17  2020 summernote-lite.js
+-rw-r--r--    1 applysea   applysea       516358 Jan 17  2020 summernote-lite.js.map
+-rw-r--r--    1 applysea   applysea       138232 Jan 17  2020 summernote-lite.min.js
+-rw-r--r--    1 applysea   applysea        18699 Jan 17  2020 summernote.css
+-rw-r--r--    1 applysea   applysea       301153 Jan 17  2020 summernote.js
+-rw-r--r--    1 applysea   applysea       481093 Jan 17  2020 summernote.js.map
+-rw-r--r--    1 applysea   applysea       127625 Jan 17  2020 summernote.min.js

@@ -1,0 +1,12 @@
+drwxr-xr-x    3 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x   61 applysea   applysea         4096 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea           90 Jan 17  2020 .eslintrc.js
+-rw-r--r--    1 applysea   applysea         2109 Jan 17  2020 Gruntfile.js
+-rw-r--r--    1 applysea   applysea          500 Jan 17  2020 bower.json
+drwxr-xr-x    3 applysea   applysea          142 Jul  2 18:52 dev
+-rw-r--r--    1 applysea   applysea         1083 Jan 17  2020 license.txt
+-rw-r--r--    1 applysea   applysea       310628 Jan 17  2020 raphael.js
+-rw-r--r--    1 applysea   applysea        93167 Jan 17  2020 raphael.min.js
+-rw-r--r--    1 applysea   applysea       295398 Jan 17  2020 raphael.no-deps.js
+-rw-r--r--    1 applysea   applysea        90216 Jan 17  2020 raphael.no-deps.min.js
+-rw-r--r--    1 applysea   applysea          715 Jan 17  2020 webpack.config.js

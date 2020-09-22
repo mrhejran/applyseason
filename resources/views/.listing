@@ -1,0 +1,10 @@
+drwxr-xr-x    8 applysea   applysea          126 Jul  2 18:53 .
+drwxr-xr-x    6 applysea   applysea           49 Jul  2 18:53 ..
+drwxr-xr-x    7 applysea   applysea         4096 Sep  5 13:44 admin
+drwxr-xr-x    3 applysea   applysea           92 Jul  2 18:53 auth
+-rw-r--r--    1 applysea   applysea          626 Mar  8  2020 home.blade.php
+drwxr-xr-x    2 applysea   applysea          147 Sep  1 10:56 include
+drwxr-xr-x    2 applysea   applysea           69 Jul  2 18:53 layouts
+drwxr-xr-x    2 applysea   applysea         4096 Sep  5 11:33 user
+drwxr-xr-x    3 applysea   applysea           20 Jul  2 18:53 vendor
+-rw-r--r--    1 applysea   applysea         2887 Mar  8  2020 welcome.blade.php

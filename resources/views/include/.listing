@@ -1,0 +1,8 @@
+drwxr-xr-x    2 applysea   applysea          147 Sep  1 10:56 .
+drwxr-xr-x    8 applysea   applysea          126 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         3750 Mar 18  2020 footer.blade.php
+-rw-r--r--    1 applysea   applysea         2531 Sep  9 11:45 head.blade.php
+-rw-r--r--    1 applysea   applysea          237 Mar 10  2020 messages.blade.php
+-rw-r--r--    1 applysea   applysea         1570 Sep  1 10:56 navbar.blade.php
+-rw-r--r--    1 applysea   applysea         1516 Sep 10 17:52 script.blade.php
+-rw-r--r--    1 applysea   applysea         1106 Mar 18  2020 subscribe.blade.php

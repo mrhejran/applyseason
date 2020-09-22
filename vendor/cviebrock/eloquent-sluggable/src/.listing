@@ -1,0 +1,7 @@
+drwxr-xr-x    3 applysea   applysea          127 Jul  2 18:53 .
+drwxr-xr-x    6 applysea   applysea         4096 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         1234 Apr  5 14:55 ServiceProvider.php
+drwxr-xr-x    2 applysea   applysea           28 Jul  2 18:53 Services
+-rw-r--r--    1 applysea   applysea         2181 Apr  5 14:55 Sluggable.php
+-rw-r--r--    1 applysea   applysea         2228 Apr  5 14:55 SluggableObserver.php
+-rw-r--r--    1 applysea   applysea         2206 Apr  5 14:55 SluggableScopeHelpers.php

@@ -1,0 +1,5 @@
+drwxr-xr-x    2 applysea   applysea           64 Jul  2 18:53 .
+drwxr-xr-x    6 applysea   applysea          134 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea        13143 Mar  8  2020 DomainPart.php
+-rw-r--r--    1 applysea   applysea         4569 Mar  8  2020 LocalPart.php
+-rw-r--r--    1 applysea   applysea         6913 Mar  8  2020 Parser.php

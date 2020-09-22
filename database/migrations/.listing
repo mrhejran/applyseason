@@ -1,0 +1,13 @@
+drwxr-xr-x    2 applysea   applysea         4096 Sep  5 13:07 .
+drwxr-xr-x    5 applysea   applysea           68 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea          864 Sep  5 14:46 2014_10_12_000000_create_users_table.php
+-rw-r--r--    1 applysea   applysea          683 Mar  8  2020 2014_10_12_100000_create_password_resets_table.php
+-rw-r--r--    1 applysea   applysea         1038 Apr  5 14:58 2016_11_04_152913_create_laravel_fulltext_table.php
+-rw-r--r--    1 applysea   applysea         3239 Apr  5 14:58 2018_05_28_224023_create_blog_etc_posts_table.php
+-rw-r--r--    1 applysea   applysea          802 Apr  5 14:58 2018_09_16_224023_add_author_and_url_blog_etc_posts_table.php
+-rw-r--r--    1 applysea   applysea          691 Apr  5 14:58 2018_09_26_085711_add_short_desc_textrea_to_blog_etc.php
+-rw-r--r--    1 applysea   applysea         1142 Apr  5 14:58 2018_09_27_122627_create_blog_etc_uploaded_photos_table.php
+-rw-r--r--    1 applysea   applysea          615 Mar 11  2020 2020_03_10_172835_create_professor_data_table.php
+-rw-r--r--    1 applysea   applysea          827 Apr  6 10:28 2020_04_06_031928_create_reply_comments_table.php
+-rw-r--r--    1 applysea   applysea          704 Sep  5 13:13 2020_09_05_075420_messages.php
+-rw-r--r--    1 applysea   applysea          623 Sep  5 20:31 2020_09_05_080729_seemore.php

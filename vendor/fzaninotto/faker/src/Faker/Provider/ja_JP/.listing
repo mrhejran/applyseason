@@ -1,0 +1,8 @@
+drwxr-xr-x    2 applysea   applysea          115 Jul  2 18:53 .
+drwxr-xr-x   57 applysea   applysea         4096 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         8542 Mar  8  2020 Address.php
+-rw-r--r--    1 applysea   applysea          373 Mar  8  2020 Company.php
+-rw-r--r--    1 applysea   applysea         2966 Mar  8  2020 Internet.php
+-rw-r--r--    1 applysea   applysea         5789 Mar  8  2020 Person.php
+-rw-r--r--    1 applysea   applysea          436 Mar  8  2020 PhoneNumber.php
+-rw-r--r--    1 applysea   applysea       148899 Mar  8  2020 Text.php

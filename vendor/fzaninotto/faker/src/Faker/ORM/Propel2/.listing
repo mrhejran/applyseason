@@ -1,0 +1,5 @@
+drwxr-xr-x    2 applysea   applysea           80 Jul  2 18:53 .
+drwxr-xr-x    8 applysea   applysea           88 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         3585 Mar  8  2020 ColumnTypeGuesser.php
+-rw-r--r--    1 applysea   applysea         5988 Mar  8  2020 EntityPopulator.php
+-rw-r--r--    1 applysea   applysea         2959 Mar  8  2020 Populator.php

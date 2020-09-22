@@ -1,0 +1,7 @@
+drwxr-xr-x    3 applysea   applysea          103 Jul  2 18:52 .
+drwxr-xr-x    4 applysea   applysea           25 Jul  2 18:52 ..
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 i18n
+-rw-r--r--    1 applysea   applysea       171737 Jan 17  2020 select2.full.js
+-rw-r--r--    1 applysea   applysea        78627 Jan 17  2020 select2.full.min.js
+-rw-r--r--    1 applysea   applysea       151811 Jan 17  2020 select2.js
+-rw-r--r--    1 applysea   applysea        70357 Jan 17  2020 select2.min.js

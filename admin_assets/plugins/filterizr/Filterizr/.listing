@@ -1,0 +1,5 @@
+drwxr-xr-x    2 applysea   applysea           77 Jul  2 18:52 .
+drwxr-xr-x   13 applysea   applysea         4096 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea         2564 Jan 17  2020 Filterizr.d.ts
+-rw-r--r--    1 applysea   applysea           39 Jan 17  2020 index.d.ts
+-rw-r--r--    1 applysea   applysea           61 Jan 17  2020 installAsJQueryPlugin.d.ts

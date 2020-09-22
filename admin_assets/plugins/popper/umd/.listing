@@ -1,0 +1,11 @@
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x    4 applysea   applysea         4096 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea        36692 Jan 17  2020 popper-utils.js
+-rw-r--r--    1 applysea   applysea        61884 Jan 17  2020 popper-utils.js.map
+-rw-r--r--    1 applysea   applysea        10831 Jan 17  2020 popper-utils.min.js
+-rw-r--r--    1 applysea   applysea        53858 Jan 17  2020 popper-utils.min.js.map
+-rw-r--r--    1 applysea   applysea        88768 Jan 17  2020 popper.js
+-rw-r--r--    1 applysea   applysea         3114 Jan 17  2020 popper.js.flow
+-rw-r--r--    1 applysea   applysea       140875 Jan 17  2020 popper.js.map
+-rw-r--r--    1 applysea   applysea        21257 Jan 17  2020 popper.min.js
+-rw-r--r--    1 applysea   applysea       123890 Jan 17  2020 popper.min.js.map

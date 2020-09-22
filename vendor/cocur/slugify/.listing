@@ -1,0 +1,8 @@
+drwxr-xr-x    5 applysea   applysea           99 Jul  2 18:53 .
+drwxr-xr-x    3 applysea   applysea           20 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         1091 Apr  5 14:55 LICENSE
+drwxr-xr-x    3 applysea   applysea           18 Jul  2 18:53 Resources
+drwxr-xr-x    2 applysea   applysea           33 Jul  2 18:53 bin
+-rw-r--r--    1 applysea   applysea         1385 Apr  5 14:55 composer.json
+-rw-r--r--    1 applysea   applysea          479 Apr  5 14:55 phpunit.xml.dist
+drwxr-xr-x    4 applysea   applysea           83 Jul  2 18:53 src

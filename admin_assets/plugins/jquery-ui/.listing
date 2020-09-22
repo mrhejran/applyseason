@@ -1,0 +1,14 @@
+drwxr-xr-x    4 applysea   applysea         4096 Jul  2 18:52 .
+drwxr-xr-x   61 applysea   applysea         4096 Jul  2 18:52 ..
+-rw-r--r--    1 applysea   applysea        12660 Jan 17  2020 AUTHORS.txt
+-rw-r--r--    1 applysea   applysea         1817 Jan 17  2020 LICENSE.txt
+drwxr-xr-x    3 applysea   applysea           19 Jul  2 18:52 external
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 images
+-rw-r--r--    1 applysea   applysea        37326 Jan 17  2020 jquery-ui.css
+-rw-r--r--    1 applysea   applysea       520714 Jan 17  2020 jquery-ui.js
+-rw-r--r--    1 applysea   applysea        32076 Jan 17  2020 jquery-ui.min.css
+-rw-r--r--    1 applysea   applysea       253669 Jan 17  2020 jquery-ui.min.js
+-rw-r--r--    1 applysea   applysea        18705 Jan 17  2020 jquery-ui.structure.css
+-rw-r--r--    1 applysea   applysea        15548 Jan 17  2020 jquery-ui.structure.min.css
+-rw-r--r--    1 applysea   applysea        18671 Jan 17  2020 jquery-ui.theme.css
+-rw-r--r--    1 applysea   applysea        13849 Jan 17  2020 jquery-ui.theme.min.css

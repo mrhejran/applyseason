@@ -1,0 +1,4 @@
+drwxr-xr-x    2 applysea   applysea           49 Jul  2 18:53 .
+drwxr-xr-x    4 applysea   applysea         4096 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea          219 Mar  8  2020 RFCWarnings.php
+-rw-r--r--    1 applysea   applysea          258 Mar  8  2020 SpoofEmail.php

@@ -1,0 +1,11 @@
+drwxr-xr-x    4 applysea   applysea         4096 Jul  2 18:53 .
+drwxr-xr-x    6 applysea   applysea          134 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         1978 Mar  8  2020 DNSCheckValidation.php
+-rw-r--r--    1 applysea   applysea          751 Mar  8  2020 EmailValidation.php
+drwxr-xr-x    2 applysea   applysea           49 Jul  2 18:53 Error
+drwxr-xr-x    2 applysea   applysea           36 Jul  2 18:53 Exception
+-rw-r--r--    1 applysea   applysea          606 Mar  8  2020 MultipleErrors.php
+-rw-r--r--    1 applysea   applysea         2953 Mar  8  2020 MultipleValidationWithAnd.php
+-rw-r--r--    1 applysea   applysea          799 Mar  8  2020 NoRFCWarningsValidation.php
+-rw-r--r--    1 applysea   applysea          967 Mar  8  2020 RFCValidation.php
+-rw-r--r--    1 applysea   applysea         1099 Mar  8  2020 SpoofCheckValidation.php

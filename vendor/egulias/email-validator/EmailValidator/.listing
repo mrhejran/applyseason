@@ -1,0 +1,9 @@
+drwxr-xr-x    6 applysea   applysea          134 Jul  2 18:53 .
+drwxr-xr-x    3 applysea   applysea          141 Jul  2 18:53 ..
+-rw-r--r--    1 applysea   applysea         6261 Mar  8  2020 EmailLexer.php
+-rw-r--r--    1 applysea   applysea         2986 Mar  8  2020 EmailParser.php
+-rw-r--r--    1 applysea   applysea         1240 Mar  8  2020 EmailValidator.php
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:53 Exception
+drwxr-xr-x    2 applysea   applysea           64 Jul  2 18:53 Parser
+drwxr-xr-x    4 applysea   applysea         4096 Jul  2 18:53 Validation
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:53 Warning

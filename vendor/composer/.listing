@@ -1,0 +1,11 @@
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:53 .
+drwxr-xr-x   15 applysea   applysea         4096 Jul  2 18:54 ..
+-rw-r--r--    1 applysea   applysea        13459 Apr  5 15:17 ClassLoader.php
+-rw-r--r--    1 applysea   applysea         1070 Apr  5 15:17 LICENSE
+-rw-r--r--    1 applysea   applysea       513286 Sep  5 12:55 autoload_classmap.php
+-rw-r--r--    1 applysea   applysea         1850 Apr  5 15:17 autoload_files.php
+-rw-r--r--    1 applysea   applysea          568 Apr  5 15:17 autoload_namespaces.php
+-rw-r--r--    1 applysea   applysea         5440 Apr  5 15:17 autoload_psr4.php
+-rw-r--r--    1 applysea   applysea         2476 Sep  4 14:35 autoload_real.php
+-rw-r--r--    1 applysea   applysea       566360 Sep  5 12:55 autoload_static.php
+-rw-r--r--    1 applysea   applysea       182583 Apr  5 15:15 installed.json

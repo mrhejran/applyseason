@@ -1,0 +1,26 @@
+@font-face {  
+
+    font-family: 'sans-serif';  
+    src: url(https://fonts.googleapis.com/css2?family=Gotu&display=swap); /* IE */  
+    src: local("sans-serif"), url("https://fonts.googleapis.com/css2?family=Gotu&display=swap") format("truetype"); /*non-IE*/  
+    
+    
+    font-family: 'Source Sans Pro';
+    src: url(https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@900&display=swap); /* IE */  
+    src: local("Source Sans Pro"), url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@900&display=swap") format("truetype"); /*non-IE*/ 
+    
+    font-family: 'serif';
+    src: url(https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap); /* IE */  
+    src: local("serif"), url("https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap"); /*non-IE*/
+    
+    font-family: 'Roboto Condensed';
+    src: url(https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap); /* IE */  
+    src: local("Roboto Condensed"), url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap"); /*non-IE*/
+
+    font-family: 'Lato';
+    src: url(https://fonts.googleapis.com/css2?family=Lato&display=swap); /* IE */  
+    src: local("Lato"), url("https://fonts.googleapis.com/css2?family=Lato&display=swap"); /*non-IE*/
+
+
+ }
+ 

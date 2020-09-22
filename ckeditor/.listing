@@ -1,0 +1,10 @@
+drwxr-xr-x    6 applysea   applysea          127 Jul  2 18:52 .
+drwxr-xr-x   24 applysea   applysea         4096 Sep 18 14:08 ..
+drwxr-xr-x    2 applysea   applysea           22 Jul  2 18:52 adapters
+-rw-r--r--    1 applysea   applysea       722736 Apr  2 13:04 ckeditor.js
+-rw-r--r--    1 applysea   applysea          487 Apr  2 23:38 config.js
+-rw-r--r--    1 applysea   applysea         3094 Apr  2 13:04 contents.css
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:52 lang
+drwxr-xr-x   33 applysea   applysea         4096 Jul  2 18:52 plugins
+drwxr-xr-x    3 applysea   applysea           23 Jul  2 18:52 skins
+-rw-r--r--    1 applysea   applysea         5579 Apr  2 13:04 styles.js

@@ -1,0 +1,12 @@
+drwxr-xr-x    2 applysea   applysea         4096 Jul  2 18:53 .
+drwxr-xr-x   15 applysea   applysea         4096 Jul  2 18:54 ..
+-rw-r--r--    1 applysea   applysea          361 Mar  8  2020 php-parse
+-rw-r--r--    1 applysea   applysea          124 Mar  8  2020 php-parse.bat
+-rw-r--r--    1 applysea   applysea          354 Mar  8  2020 phpunit
+-rw-r--r--    1 applysea   applysea          117 Mar  8  2020 phpunit.bat
+-rw-r--r--    1 applysea   applysea          350 Mar  8  2020 psysh
+-rw-r--r--    1 applysea   applysea          113 Mar  8  2020 psysh.bat
+-rw-r--r--    1 applysea   applysea          363 Apr  5 14:34 upgrade-carbon
+-rw-r--r--    1 applysea   applysea          126 Apr  5 14:34 upgrade-carbon.bat
+-rw-r--r--    1 applysea   applysea          379 Apr  5 14:33 var-dump-server
+-rw-r--r--    1 applysea   applysea          142 Apr  5 14:33 var-dump-server.bat

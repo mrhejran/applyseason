@@ -1,0 +1,9 @@
+drwxr-xr-x    3 applysea   applysea          141 Jul  2 18:53 .
+drwxr-xr-x    3 applysea   applysea           28 Jul  2 18:53 ..
+drwxr-xr-x    6 applysea   applysea          134 Jul  2 18:53 EmailValidator
+-rw-r--r--    1 applysea   applysea         1069 Mar  8  2020 LICENSE
+-rw-r--r--    1 applysea   applysea         4041 Mar  8  2020 README.md
+-rw-r--r--    1 applysea   applysea          991 Mar  8  2020 composer.json
+-rw-r--r--    1 applysea   applysea          648 Mar  8  2020 phpunit.xml.dist
+-rw-r--r--    1 applysea   applysea          638 Mar  8  2020 psalm.baseline.xml
+-rw-r--r--    1 applysea   applysea          547 Mar  8  2020 psalm.xml
